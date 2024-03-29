@@ -33,23 +33,21 @@ SO THAT: I can easily access and manage my healthcare needs without the hassle o
 ```
 As a user, I should be able to choose a healthcare provider from a clinics selection.
 
-I should be able to view profiles of healthcare providers, including availability.
-
-I want to be able to schedule appointments with selected providers directly through the web application, choosing convenient time slots based on availability.
+I want to be able to schedule appointments with a selected provider directly through the web application, choosing convenient time slots based on availability.
 
 Once an appointment is scheduled, I should be able to see on a dashboard or added to calendar
 
 I should have the ability to easily edit or cancel appointments if my plans change.
 
+I should have access to a dashboard where I can view all my upcoming appointments, past appointments, and billing history in one place.
+
 The web application should provide a secure and user-friendly platform for making payments for appointments and any associated bills.
 
-I should have access to a dashboard where I can view all my upcoming appointments, past appointments, and billing history in one place.
+The application should be able to take reviews for the office.
 
 The application should maintain the privacy and security of my personal information.
 
 The user interface should be intuitive and easy to navigate, ensuring a seamless user experience for all users.
-
-The application should be able to take reviews for the office.
 
 I should have access to contact info or help resources within the application in case I encounter any issues or have questions about using the platform.
 ```
