@@ -31,7 +31,7 @@ SO THAT: I can easily access and manage my healthcare needs without the hassle o
 ## Acceptance Criteria
 
 ```
-As a user, I should be able to search for healthcare providers based on location, specialty, and other relevant filters.
+As a user, I should be able to choose a healthcare provider from a clinics selection.
 
 I should be able to view profiles of healthcare providers, including availability.
 
