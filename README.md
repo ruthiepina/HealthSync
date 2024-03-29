@@ -33,7 +33,7 @@ SO THAT: I can easily access and manage my healthcare needs without the hassle o
 ```
 As a user, I should be able to search for healthcare providers based on location, specialty, and other relevant filters.
 
-I should be able to view profiles of healthcare providers, including their reviews and availability.
+I should be able to view profiles of healthcare providers, including availability.
 
 I want to be able to schedule appointments with selected providers directly through the web application, choosing convenient time slots based on availability.
 
@@ -48,6 +48,8 @@ I should have access to a dashboard where I can view all my upcoming appointment
 The application should maintain the privacy and security of my personal information.
 
 The user interface should be intuitive and easy to navigate, ensuring a seamless user experience for all users.
+
+The application should be able to take reviews for the office.
 
 I should have access to contact info or help resources within the application in case I encounter any issues or have questions about using the platform.
 ```
