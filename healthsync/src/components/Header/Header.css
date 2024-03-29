@@ -1,0 +1,37 @@
+header {
+    display: flex;
+    flex-direction: column; /* Aligns children (h1 and Navigation) in a vertical column */
+    justify-content: space-between; /* Spaces out the h1 and Navigation */
+    align-items: flex-start; /* Aligns items to the start (left) */
+    text-align: left; /* Ensures text alignment is to the left for the h1 */
+    padding: 1rem;
+    background-color: #0b588f;
+    color: white;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    box-sizing: border-box;
+    z-index: 1000;
+  }
+  
+  h1 {
+    font-family: (Cambria, Cochin, Georgia, Times, 'Times New Roman', serif);
+    font-weight: 100;
+    font-stretch: semi-expanded;
+    color:azure;
+  margin: 0;
+    padding-right: 1rem; /* Provides some spacing next to h1, if needed */
+  }
+  
+  @media (max-width: 768px) {
+    header {
+      padding: 0.5rem;
+    }
+  
+    h1 {
+      font-size: 1.2rem; /* Adjusts h1 font size for smaller screens */
+      color:azure;
+    }
+  }
+  
