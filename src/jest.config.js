@@ -14,5 +14,9 @@ module.exports = {
     // Coverage configuration
     coverageDirectory: 'coverage',
     collectCoverageFrom: ['src/**/*.js'],
+
+    transform: {
+      "^.+\\.jsx?$": "babel-jest"
+    }
   };
   

@@ -1,5 +1,5 @@
 // tests/utils/authUtils.test.js
-import { validateEmail, validatePassword } from '../src/utils/authUtils';
+import { validateEmail, validatePassword } from '../../utils/authUtils';
 
 test('validateEmail returns true for valid email', () => {
   const validEmail = 'test@example.com';
